@@ -1,0 +1,124 @@
+{
+    "products": [
+  {
+            "id":1,
+            "brand_name":"Fresho onion",
+            "product_name":"Onion",
+            "quantity":"1kg",
+            "price":24,
+            "mrp":30,
+           
+            "image_url":"https://www.bigbasket.com/media/uploads/p/l/10000148_28-fresho-onion.jpg",
+            "offer_text":"20% off"
+    },
+
+    {
+        "id":2,
+        "brand_name":"Fresho tomato hybrid",
+        "product_name":"Tomato",
+        "quantity":"1kg",
+        "price":36,
+        "mrp":40,
+     
+        "image_url":"https://www.bigbasket.com/media/uploads/p/l/10000200_17-fresho-tomato-hybrid.jpg",
+        "offer_text":"10% off"
+     },
+
+    {
+        "id":3,
+        "brand_name":"Royal honey",
+        "product_name":"Honey",
+        "quantity":"1kg",
+        "price":270,    
+        "mrp":300,
+        
+        "image_url":"https://www.bigbasket.com/media/uploads/p/l/40073726_9-bb-royal-honey.jpg",
+        "offer_text":"10% off"
+    },
+
+    {
+        "id":4,
+        "brand_name":"Minute maid fruit drink pulpy orange",
+        "product_name":"Pulpy orange",
+        "quantity":"1l",
+        "price":95,
+        "mrp":100,
+  
+        "image_url":"https://www.bigbasket.com/media/uploads/p/l/265722_11-minute-maid-fruit-drink-pulpy-orange.jpg",
+        "offer_text":"5% off"
+    },
+
+    {
+    "id":5,
+    "brand_name":"Oreo choco reme biscuits",
+    "product_name":"Oreo",
+    "quantity":"1pc",
+    "price":27,
+    "mrp":30,
+   
+    "image_url":"https://www.bigbasket.com/media/uploads/p/l/1203470_1-oreo-choco-creme-biscuits.jpg",
+    "offer_text":"10% off"
+    },
+
+    {
+    "id":6,
+    "brand_name":"Unibic cookies doosra jeera butter",
+    "product_name":"Unibic cookies",
+    "quantity":"1pc",
+    "price":40,
+    "mrp":50,
+
+    "image_url":"https://www.bigbasket.com/media/uploads/p/l/40016297_2-unibic-cookies-doosra-jeera-butter.jpg",
+    "offer_text":"20% off"
+    },
+
+
+    {
+    "id":7,
+    "brand_name":"Body lotion nourishing body milk",
+    "product_name":"Bodylotion",
+    "quantity":"500ml",
+    "price":280,
+    "mrp":400,
+ 
+    "image_url":"https://www.bigbasket.com/media/uploads/p/l/210060_7-nivea-body-lotion-nourishing-body-milk-for-very-dry-skin.jpg",
+    "offer_text":"30% off"
+    },
+
+    {
+    "id":8,
+    "brand_name":"fogg-fragrance-body-spray-marco",
+    "product_name":"Fogg",
+    "quantity":"250ml",
+    "price":160,
+    "mrp":200,
+ 
+    "image_url":"https://www.bigbasket.com/media/uploads/p/l/40001562_2-fogg-fragrance-body-spray-marco.jpg",
+    "offer_text":"20% off"
+    },
+
+    {
+    "id":9,
+    "brand_name":"Aashirvaad atta whole wheat",
+    "product_name":"Aashirvaad",
+    "quantity":"1kg",
+    "price":90,
+    "mrp":100,
+
+    "image_url":"https://www.bigbasket.com/media/uploads/p/l/126906_6-aashirvaad-atta-whole-wheat.jpg",
+    "offer_text":"10% off"
+    },
+
+    {
+        "id":10,
+        "brand_name":"Newyork colossal kajal",
+        "product_name":"Kajal",
+        "quantity":"1pc",
+        "price":270,
+        "mrp":300,
+      
+        "image_url":"https://www.bigbasket.com/media/uploads/p/l/1208621_1-maybelline-new-york-colossal-kajal.jpg",
+        "offer_text":"10% off"
+        }
+    ]
+} 
